@@ -5,9 +5,11 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
+    "@types/async-lock": "^1.1.2",
     "@types/chai": "^4.2.0",
     "@types/mz": "^0.0.32",
     "@types/node": "^12.6.8",
+    "async-lock": "^1.2.2",
     "chai": "^4.2.0",
     "chalk": "^2.4.2",
     "mz": "^2.7.0",
